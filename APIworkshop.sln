@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APi-wprkshop", "APi-wprkshop\APi-wprkshop.csproj", "{B5200952-214E-4E52-AB86-BD7FF51427BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIworkshop", "APi-wprkshop\APIworkshop.csproj", "{B5200952-214E-4E52-AB86-BD7FF51427BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
